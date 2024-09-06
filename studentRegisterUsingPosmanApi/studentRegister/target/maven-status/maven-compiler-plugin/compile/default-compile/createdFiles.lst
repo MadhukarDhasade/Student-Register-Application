@@ -1,0 +1,12 @@
+com\sudentRegister\studentRegister\reposiory\StudentRegisterRepository.class
+com\sudentRegister\studentRegister\repositoryImpl\StudentRegisterRepositoryByJdbcImpl.class
+com\sudentRegister\studentRegister\service\StudentRegisterService.class
+com\sudentRegister\studentRegister\repositoryImpl\StudentRegisterRepositoryImpl.class
+com\sudentRegister\studentRegister\repositoryImpl\StudentRegisterRepositoryByJdbcImpl$1.class
+com\sudentRegister\studentRegister\repositoryImpl\StudentRegisterRepositoryByJdbcImpl$2.class
+com\sudentRegister\studentRegister\StudentRegisterApplication.class
+com\sudentRegister\studentRegister\controller\LoginController.class
+com\sudentRegister\studentRegister\reposiory\Studend2ndRepo.class
+com\sudentRegister\studentRegister\controller\StudentRegisterController.class
+com\sudentRegister\studentRegister\model\Students.class
+com\sudentRegister\studentRegister\service\StudentRegisterServiceForH2.class
